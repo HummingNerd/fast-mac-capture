@@ -44,6 +44,12 @@ pip install -e .
 
 ```
 
+To remove the edible 
+
+```bash
+pip uninstall fast-mac-capture
+```
+
 You can now import it into any Python script like a standard library:
 
 ```python
