@@ -1,0 +1,34 @@
+# ------------------------------
+# Python
+# ------------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.env/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# ------------------------------
+# Swift / macOS build artifacts
+# ------------------------------
+*.dylib
+*.o
+*.swiftmodule
+*.swiftdoc
+
+# If you build into a folder
+.build/
