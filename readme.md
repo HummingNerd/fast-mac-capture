@@ -47,9 +47,10 @@ from fast_mac_capture import MacScreenCapture
 Test Environment: - Apple Silicon (M1) - macOS - OpenCV display loop -
 5-second averaged capture - Same resolution and region for both methods
 
-Resolution MSS FPS Metal FPS Speedup
+Resolution   MSS FPS    Metal FPS   Speedup
 
-300x300 26 68 2.6x 1280x800 15 56 3.7x
+300x300        26         68      2.6x 
+1280x800       15         56      3.7x
 
 Observations:
 
