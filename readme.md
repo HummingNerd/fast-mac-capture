@@ -20,7 +20,7 @@ Screen capture performance frequently becomes a severe computing bottleneck in d
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/HummingNerd/fast-mac-capture.git](https://github.com/HummingNerd/fast-mac-capture.git)
+git clone https://github.com/HummingNerd/fast-mac-capture.git](https://github.com/HummingNerd/fast-mac-capture.git
 cd fast-mac-capture
 
 ```
